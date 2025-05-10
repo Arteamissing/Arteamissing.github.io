@@ -1,0 +1,13 @@
+name = "Inheritance"
+author = "Artea"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1501a2657e423cc15f62851c49f52a354e5c441780d174479a07868ce09465d7"
+
+[versions]
+forge = "47.3.0"
+minecraft = "1.20.1"
