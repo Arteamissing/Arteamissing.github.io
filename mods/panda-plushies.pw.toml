@@ -1,0 +1,13 @@
+name = "(Red) Panda Plushies!"
+filename = "pandaplushies-1.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4806051c4dd04281b102b5581dfc253091eec564"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5576049
+project-id = 1069892

@@ -1,0 +1,13 @@
+name = "Plushie Buddies"
+filename = "plushie_buddies-0.1.4-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ec29e2e392fd3813cd4c1d755668518d4e92d0c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6369754
+project-id = 990265
