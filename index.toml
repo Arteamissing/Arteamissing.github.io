@@ -248,6 +248,11 @@ hash = "4835b66cd4c26a027d52b4d15916f010c326537bebaa81350ddd40b9df61cf27"
 metafile = true
 
 [[files]]
+file = "mods/fairy-lights.pw.toml"
+hash = "eeca094798607a0393a5ec261a0f3298e20fa74b0daa879951aec47c2c7fe64b"
+metafile = true
+
+[[files]]
 file = "mods/fakename-1.20.1-1.3.1.jar"
 hash = "8a630c3d86fc2357092b830f1a6a6c3b8f8725a5f402788729cba40053a5925f"
 
