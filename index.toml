@@ -240,9 +240,8 @@ hash = "4835b66cd4c26a027d52b4d15916f010c326537bebaa81350ddd40b9df61cf27"
 metafile = true
 
 [[files]]
-file = "mods/fakename.pw.toml"
-hash = "f90d3f339d2a3e599b87bfaa91ab2ae5b0d95d83348c05827acdbaf18986d725"
-metafile = true
+file = "mods/fakename-1.20.1-1.3.1.jar"
+hash = "8a630c3d86fc2357092b830f1a6a6c3b8f8725a5f402788729cba40053a5925f"
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
