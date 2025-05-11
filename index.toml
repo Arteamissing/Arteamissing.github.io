@@ -83,6 +83,11 @@ hash = "83ba38ab1e5b583227e9d37b8fea91ac1fcb4e2f67ba86800c5d7aa4024d2993"
 metafile = true
 
 [[files]]
+file = "mods/born-in-chaos.pw.toml"
+hash = "3cb5cc7c1f480acc7ab7e32ef5a4debd5976c46d6561e8e0cbe941abc0c74b25"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "008c942efc2e2ec221dd1a760b4a50e2f24ede37747731ba794f5e845554adcb"
 metafile = true
