@@ -108,11 +108,6 @@ hash = "1cc9be4cc2fea7ce8882c2d286c607560b32ebe5c7e45e7c734e62c1d611f186"
 metafile = true
 
 [[files]]
-file = "mods/cccbridge.pw.toml"
-hash = "2ecf09fed9ee5d417e3c748b9274989b37bd5555ddfea9626e53628b60285189"
-metafile = true
-
-[[files]]
 file = "mods/chipped.pw.toml"
 hash = "71a33fe41bead909b3e95643351ef8015def70d3cb083916469f492f66434b45"
 metafile = true
@@ -158,11 +153,6 @@ hash = "c22a242d8faa61fd1b25f89707eff35dff301d6a6b35ffd345220e1a5fd9339d"
 metafile = true
 
 [[files]]
-file = "mods/create-big-cannons.pw.toml"
-hash = "aec0132cc4855c9f2d66a43bbcdc65429c2147c61b8c22760d41289b342720d8"
-metafile = true
-
-[[files]]
 file = "mods/create-cafe.pw.toml"
 hash = "d52e38fb379229c6c3f641933582d96f0908669f7ffbf65a74e01ab672449a9b"
 metafile = true
@@ -190,11 +180,6 @@ metafile = true
 [[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "c2ee46d175b9a6ab59dcbf24567fcb68253d6b039dbb2ce3dac0c1332aac8fa9"
-metafile = true
-
-[[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-hash = "cb7b31c785f6e7466951c7b2b221d9c89f065e7930a36ac1a575e40d54404bb3"
 metafile = true
 
 [[files]]
@@ -878,12 +863,12 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "86d64d907b512c2dccacacc724340588227480e3adf89aaf733299b32071bc6e"
+hash = "da590734b1065bbc0018dcdedbdd4df158015afb6cfb18150b141ecf220e898c"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "3c8df135754eec90827256c97baae5d5ea82c7945d044125664d6846f2fe1c94"
+hash = "2523d4e9ef751dd9b146c2246586cb8ee8e0bcd3691eb38642ae6a48433182fa"
 metafile = true
 
 [[files]]
