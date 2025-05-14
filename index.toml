@@ -657,6 +657,51 @@ hash = "8a459a2534f09d18581fa154a84f428b1eaf1721fc8493ebe1e80df490e7502c"
 metafile = true
 
 [[files]]
+file = "mods/moa-decor-art.pw.toml"
+hash = "b5052ae1eff66b2573e4fcbe4272ae5ec0e574147422a2eefd88a30777b07637"
+metafile = true
+
+[[files]]
+file = "mods/moa-decor-bath.pw.toml"
+hash = "de10d0cf7c0dee792f2a551143b6eba59b6992de85d7df06febb07c7e0f1a6b8"
+metafile = true
+
+[[files]]
+file = "mods/moa-decor-cookery.pw.toml"
+hash = "2922e1925edde2ddd1d361fb777f29cd62c200cc5483692008d454a105c18aed"
+metafile = true
+
+[[files]]
+file = "mods/moa-decor-electronics.pw.toml"
+hash = "478eed20023435a2b0a607393b41378a5a312d937cdb3cd74a87a59be1207e0f"
+metafile = true
+
+[[files]]
+file = "mods/moa-decor-garden.pw.toml"
+hash = "9077e973cccce03738cd0273ce980765c2dde230965581136c07a3b36c5af919"
+metafile = true
+
+[[files]]
+file = "mods/moa-decor-holidays.pw.toml"
+hash = "d0f3df6d525cf6a82222223e7627719e1ae796605e6baa921860908e603faf83"
+metafile = true
+
+[[files]]
+file = "mods/moa-decor-lights.pw.toml"
+hash = "692236421deb64f7a4cfda2c5da0c42a1a438a7594cf4d1c45c4955cf65b9a8c"
+metafile = true
+
+[[files]]
+file = "mods/moa-decor-science.pw.toml"
+hash = "7f645f5b19b65f0af75ada8397b19017e16065c0a77c0c48e0fe54eac5f732d2"
+metafile = true
+
+[[files]]
+file = "mods/moa-decor-toys.pw.toml"
+hash = "0aebf6b6ba3556e7acef8330052107250fc0cfa00290bae6660329d010ac6cd2"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "532742fd8bec17663d0f7d8d687aeed2dd896801b67e283db473a4f06b2ca2a2"
 metafile = true
