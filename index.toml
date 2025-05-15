@@ -5,6 +5,10 @@ file = "README.md"
 hash = "663eee5454c78385625c4b192fde7a645e68ea97d0339eb750f292d04ff2e772"
 
 [[files]]
+file = "config/fancymenu/options.txt"
+hash = "574a1222aea37fe4590e3610f030bbdf0bfd7c68f69103e88491ec541053c0dd"
+
+[[files]]
 file = "config/flywheel-client.toml"
 hash = "8c5102d32b94fc9191800fd1597def2078ccc715eac7a6980afacd5d47c21097"
 
