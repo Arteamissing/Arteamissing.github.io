@@ -97,6 +97,11 @@ hash = "008c942efc2e2ec221dd1a760b4a50e2f24ede37747731ba794f5e845554adcb"
 metafile = true
 
 [[files]]
+file = "mods/braziliandelight.pw.toml"
+hash = "8231a877e7b1f816aa2c01248473244d1eb225df1b35089f1d41b3a62f709605"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "5155ae1ca2c606df2001422a48cd167d2449160d5fe12a302753dee69af7fe92"
 metafile = true
@@ -279,6 +284,11 @@ metafile = true
 [[files]]
 file = "mods/delightful.pw.toml"
 hash = "7e66dc768ce9a290edf6b25bb0ee760b7aafabb8c161a2181306dfb3b2bfddee"
+metafile = true
+
+[[files]]
+file = "mods/deltaboxlib.pw.toml"
+hash = "72ecc46f53112f61acbe29ebab3457d71e6666423d536434e7386470092acd3b"
 metafile = true
 
 [[files]]
