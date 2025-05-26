@@ -739,6 +739,11 @@ hash = "fe03ff925a227f90b4a4bba5d1c36ba5e733d4ca182f45baed795a0e1a7d7ac2"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
+metafile = true
+
+[[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "318a137293d0919ddeb5e25c3facd5bc83de60366ac6cd5707d28ee650330f62"
 metafile = true
@@ -796,6 +801,11 @@ metafile = true
 [[files]]
 file = "mods/perfect-plushies.pw.toml"
 hash = "85af7089ebf1ff9c1fe61719de57819053e9772087afb62b0c53d1122f2d0022"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
 metafile = true
 
 [[files]]
@@ -961,6 +971,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "ef691f94bafcddb82e719f73ba834aeca547ef895307bc7482188d04c5fcfe93"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.pw.toml"
+hash = "1195cdfa90ac4ef4d5ebed8dbca1df990cf58b0a0fe3b9b965ccefa0cfd5a2e3"
 metafile = true
 
 [[files]]
