@@ -688,6 +688,11 @@ hash = "8a459a2534f09d18581fa154a84f428b1eaf1721fc8493ebe1e80df490e7502c"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "46525fa0dd149cd614b994108f5e34446bfa61d061019b2308a321a5c4eb3c7e"
+metafile = true
+
+[[files]]
 file = "mods/moa-decor-art.pw.toml"
 hash = "b5052ae1eff66b2573e4fcbe4272ae5ec0e574147422a2eefd88a30777b07637"
 metafile = true
