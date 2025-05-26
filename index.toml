@@ -13,6 +13,10 @@ file = "config/flywheel-client.toml"
 hash = "8c5102d32b94fc9191800fd1597def2078ccc715eac7a6980afacd5d47c21097"
 
 [[files]]
+file = "config/toastcontrol-common.toml"
+hash = "7372f71f951efb2d6010ba89a474408b5f738932bee90a17a032e30147299e30"
+
+[[files]]
 file = "index.html"
 hash = "bfeedf1400b62656924bab53d97d82cba4c7cdb61c615c0dd52875b1fc59b91c"
 
