@@ -1,8 +1,2 @@
 type = user_variables
 
-variable {
-  name = animation_button
-  value = .
-  reset_on_launch = false
-}
-
