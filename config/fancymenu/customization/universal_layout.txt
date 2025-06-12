@@ -1,0 +1,55 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = %fancymenu:universal_layout%
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1732186701070
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:d45bbdae-2df7-4528-84b6-4f6cf7e42d19-1732186628080] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  audio_instance_0 = [source:local]/config/fancymenu/assets/menu_music.ogg
+  play_mode = normal
+  looping = true
+  volume = 0.3
+  sound_source = music
+  element_type = audio_v2
+  instance_identifier = 86d217c6-56b2-4b77-a090-5cfb3f62f0b6-1730382138802
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -50
+  y = -56
+  width = 100
+  height = 100
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 04f7d142-6b20-4847-96a4-b7a07d2605ab-1730382138802
+  [loading_requirement_container_meta:04f7d142-6b20-4847-96a4-b7a07d2605ab-1730382138802] = [groups:][instances:26eae107-ee52-4e0a-95e9-e1abc613b445-1730382513544;b70884f6-d2e2-4f4f-bd13-f40aaa5a1d1a-1730385927432;827042c3-8c5c-4bce-b8b8-326175efe82d-1732186662082;]
+  [loading_requirement:fancymenu_loading_requirement_is_world_loaded][requirement_mode:if_not][req_id:26eae107-ee52-4e0a-95e9-e1abc613b445-1730382513544] = 
+  [loading_requirement:is_menu_title][requirement_mode:if_not][req_id:b70884f6-d2e2-4f4f-bd13-f40aaa5a1d1a-1730385927432] = 
+  [loading_requirement:is_menu_title][requirement_mode:if_not][req_id:827042c3-8c5c-4bce-b8b8-326175efe82d-1732186662082] = 
+}
+
