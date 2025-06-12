@@ -5,8 +5,120 @@ file = "README.md"
 hash = "663eee5454c78385625c4b192fde7a645e68ea97d0339eb750f292d04ff2e772"
 
 [[files]]
+file = "config/fancymenu/assets/buttons/key_dark.png"
+hash = "ee46c3151746a84eb4859e08b77b3a8e8b75eaa4310a8f4eb9b8bd687c655725"
+
+[[files]]
+file = "config/fancymenu/assets/buttons/key_dark_multiplayer.png"
+hash = "b37a3cb78fc8fba2b8351a067ce3d43438f8a634630f096d63f47ee825140361"
+
+[[files]]
+file = "config/fancymenu/assets/buttons/key_light.png"
+hash = "0623c074c9172b7f23391a49f75f0561b561ca925c81b6b8d482116f8999f7e6"
+
+[[files]]
+file = "config/fancymenu/assets/buttons/key_light_multiplayer.png"
+hash = "591c4326a9316a0206303a2e38fdecae694737b6bd4df7b8532dcffbe1b6124b"
+
+[[files]]
+file = "config/fancymenu/assets/buttons/lock_dark.png"
+hash = "24ed69675e4483de403bca0c6e3b35f0fdb27386859288ca45abf540dde45ed4"
+
+[[files]]
+file = "config/fancymenu/assets/buttons/lock_light.png"
+hash = "ad3fd92677b5d1d5d34aec36dff8f5c06dd68a69116c94bb330ccbf39abb55a8"
+
+[[files]]
+file = "config/fancymenu/assets/buttons/smol_key_dark_multiplayer.png"
+hash = "7faabe4e9a805d951919c48724cefafbe676dbb048ca8de5d4adc8127843227b"
+
+[[files]]
+file = "config/fancymenu/assets/buttons/smol_key_dark_singleplayer.png"
+hash = "53380cd0fda8167106063ccb7c0586208fc0c4d7ebf0cf6e8b26f79fa5d73efc"
+
+[[files]]
+file = "config/fancymenu/assets/buttons/smol_key_light_multiplayer.png"
+hash = "9cda727771a5172e9583cc6b6a0b7e56630cb4abcc4a396e3213aa7928326004"
+
+[[files]]
+file = "config/fancymenu/assets/buttons/smol_key_light_singleplayer.png"
+hash = "1912f7e636f4b9b70ad1e7d221dd8d83d21591df9fd2274ab6feae2b03dc606f"
+
+[[files]]
+file = "config/fancymenu/assets/househeirdrippy.png"
+hash = "25fa61fbc3e8ccb9b30eb959617eb81ff2934e5d5ee02fce0885a4cb0513bc3d"
+
+[[files]]
+file = "config/fancymenu/assets/househeirlogo.png"
+hash = "5bfd7e3a32b3829ddbdaca00464de52e8ab1deacc7319c0653a670c2a35fd7f7"
+
+[[files]]
+file = "config/fancymenu/assets/mainscreen.gif"
+hash = "ce5ff41fd98d35449271ea71ffa72fbfd931a45791b4b85cf3fe48010c9ea2c1"
+
+[[files]]
+file = "config/fancymenu/assets/status/status_offline.png"
+hash = "1fa1b21a4aca15b16e869acffa3afb32943dbf90afe038c20fbca495ae089ebd"
+
+[[files]]
+file = "config/fancymenu/assets/status/status_online.png"
+hash = "43b76fb62567a87b34941fe5a9a58ee9e21dcf4b7923b9f24a98106ed5fe3857"
+
+[[files]]
+file = "config/fancymenu/assets/windowicon/fullhouseheir.icns"
+hash = "27a61cffadc895054e2f562864a33b2bf39682899772d4f6e386ef6d18af280b"
+
+[[files]]
+file = "config/fancymenu/assets/windowicon/fullhouseheir16.png"
+hash = "a68aca3a0d1e94d5f3fc3c5f319bdecaba18b2c338592ddf3b5cf2513b34c045"
+
+[[files]]
+file = "config/fancymenu/assets/windowicon/fullhouseheir32.png"
+hash = "479be30f4a071e534338ef5e71f1f3a56eedeed36d37fa49dc5e19e6c02c7f38"
+
+[[files]]
+file = "config/fancymenu/audio_element_controller_metas.json"
+hash = "09040279a541d9ef6f749dabff544693a6db51930c7bb36305fcd5c719e53fa3"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "32546025fd9f7178f252b7dddbff111c589d3bf36e392468e58df90f1adeb1b5"
+
+[[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "d0f09505edb66be636a2d7915b3e3f9d35cf164b53663ba7a976020c50d36e3e"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "54423fd02e9d6f61a17e634f96e4c68723c1afaf42aac14b9417ad278fdd3a83"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
 file = "config/fancymenu/options.txt"
-hash = "2dffaf4b17e900969d01b218d38ef4b42c105c1dd0ddf63810bb53a0833da758"
+hash = "1fa35ac7ca5d5873dfd25eb4d262845fbf9ee62a4c5c3ffdd8f084f35f3ba03e"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/flywheel-client.toml"

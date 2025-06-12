@@ -1,7 +1,7 @@
 ##[general]
 
-I:default_gui_scale = '-1';
-B:play_vanilla_menu_music = 'true';
+I:default_gui_scale = '3';
+B:play_vanilla_menu_music = 'false';
 B:force_fullscreen = 'false';
 
 
@@ -24,11 +24,11 @@ B:game_intro_fade_out = 'true';
 
 ##[window]
 
-B:show_custom_window_icon = 'false';
-S:custom_window_icon_macos = '';
-S:custom_window_icon_32 = '';
-S:custom_window_title = '';
-S:custom_window_icon_16 = '';
+B:show_custom_window_icon = 'true';
+S:custom_window_icon_macos = '/config/fancymenu/assets/windowicon/fullhouseheir.icns';
+S:custom_window_icon_32 = '/config/fancymenu/assets/windowicon/fullhouseheir32.png';
+S:custom_window_title = 'House Heir';
+S:custom_window_icon_16 = '/config/fancymenu/assets/windowicon/fullhouseheir16.png';
 
 
 ##[multiplayer_screen]
@@ -45,7 +45,7 @@ B:show_singleplayer_screen_world_icons = 'true';
 
 B:layout_editor_grid_snapping = 'true';
 B:anchor_overlay_change_anchor_on_area_hover = 'true';
-B:show_layout_editor_grid = 'true';
+B:show_layout_editor_grid = 'false';
 B:anchor_overlay_change_anchor_on_element_hover = 'true';
 S:anchor_overlay_visibility_mode = 'dragging';
 B:anchor_overlay_show_all_connection_lines = 'false';
