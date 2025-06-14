@@ -86,15 +86,23 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "32546025fd9f7178f252b7dddbff111c589d3bf36e392468e58df90f1adeb1b5"
+hash = "e323a752dc5ee27b6cbacea7d0104840e01f1b2ad36e1eff706c2acba989fefb"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
 hash = "d0f09505edb66be636a2d7915b3e3f9d35cf164b53663ba7a976020c50d36e3e"
 
 [[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "1af84e2019cddb975c2968ccdfc335bdddc5a8924db60e9a967c15fd7dacdd2c"
+
+[[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "0b2c6ca4d4d2c6a85115fea98efb54f7d72dfd35780c8f3fe7decf408aa3372c"
+hash = "0125db0b6b57f160db68d435aad7ef070a2f40a55ce3abde9dd31850333a4907"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt.orig"
+hash = "065c2507fd29f0939b3c1124a3a3056581296ec555334977586531a9029b6ba9"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -106,7 +114,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "0775a5221a34436b26f86fe266ff893290a0bb890169085d1cb038cc07dd1363"
+hash = "259add985f9a472e11dffaea32494fbaa987a5f5e85f39210411dfcb78f9d76a"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
