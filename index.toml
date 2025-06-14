@@ -241,6 +241,10 @@ hash = "1cc9be4cc2fea7ce8882c2d286c607560b32ebe5c7e45e7c734e62c1d611f186"
 metafile = true
 
 [[files]]
+file = "mods/charta-1.0.5-neoforge.jar"
+hash = "dbab044efe791b135c3bc5760080d47e496ed0d8d076b91c702c1bd65fd9c13f"
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "71a33fe41bead909b3e95643351ef8015def70d3cb083916469f492f66434b45"
 metafile = true
