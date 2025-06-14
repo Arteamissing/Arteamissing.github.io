@@ -94,7 +94,7 @@ hash = "d0f09505edb66be636a2d7915b3e3f9d35cf164b53663ba7a976020c50d36e3e"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "06dfe58cb8b28789a08d20dfe90e820cf88a9426043313e5e807c91400839d81"
+hash = "5355f1c67c40dd189c877af7fa21439cbf11932f43db6ac1f07475f7b3957664"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -106,7 +106,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "0775a5221a34436b26f86fe266ff893290a0bb890169085d1cb038cc07dd1363"
+hash = "259add985f9a472e11dffaea32494fbaa987a5f5e85f39210411dfcb78f9d76a"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -239,10 +239,6 @@ metafile = true
 file = "mods/cc-reforked.pw.toml"
 hash = "1cc9be4cc2fea7ce8882c2d286c607560b32ebe5c7e45e7c734e62c1d611f186"
 metafile = true
-
-[[files]]
-file = "mods/charta-1.0.5-neoforge.jar"
-hash = "dbab044efe791b135c3bc5760080d47e496ed0d8d076b91c702c1bd65fd9c13f"
 
 [[files]]
 file = "mods/chipped.pw.toml"
