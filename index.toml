@@ -29,16 +29,16 @@ file = "config/fancymenu/assets/buttons/lock_light.png"
 hash = "ad3fd92677b5d1d5d34aec36dff8f5c06dd68a69116c94bb330ccbf39abb55a8"
 
 [[files]]
-file = "config/fancymenu/assets/buttons/smol_key_dark_multiplayer.png"
-hash = "7faabe4e9a805d951919c48724cefafbe676dbb048ca8de5d4adc8127843227b"
+file = "config/fancymenu/assets/buttons/smol_key_dark_options1.png"
+hash = "b6aa0908d43d80a255afad64c3cbd1d4a5cede398d1be5e9ba911665761bdc2a"
 
 [[files]]
 file = "config/fancymenu/assets/buttons/smol_key_dark_singleplayer.png"
 hash = "53380cd0fda8167106063ccb7c0586208fc0c4d7ebf0cf6e8b26f79fa5d73efc"
 
 [[files]]
-file = "config/fancymenu/assets/buttons/smol_key_light_multiplayer.png"
-hash = "9cda727771a5172e9583cc6b6a0b7e56630cb4abcc4a396e3213aa7928326004"
+file = "config/fancymenu/assets/buttons/smol_key_light_options1.png"
+hash = "f7ca36045cd8b3654e482afbc4847476313fbcf2137e65006292f755cf0ddea4"
 
 [[files]]
 file = "config/fancymenu/assets/buttons/smol_key_light_singleplayer.png"
@@ -94,7 +94,7 @@ hash = "d0f09505edb66be636a2d7915b3e3f9d35cf164b53663ba7a976020c50d36e3e"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "5355f1c67c40dd189c877af7fa21439cbf11932f43db6ac1f07475f7b3957664"
+hash = "0b2c6ca4d4d2c6a85115fea98efb54f7d72dfd35780c8f3fe7decf408aa3372c"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -1009,6 +1009,11 @@ file = "mods/letsdo-meadow-forge-1.3.25.jar"
 hash = "832ebf35b37c10a6bb6d5a814b3b34941527ee7dbf8acdcf710c9a8a53898030"
 
 [[files]]
+file = "mods/libx.pw.toml"
+hash = "5f92ea3a89a013d4a004e1a391ee00dad45715d46e002210a5692b87ef324815"
+metafile = true
+
+[[files]]
 file = "mods/locks-unofficial.pw.toml"
 hash = "8f7b78bcfe944ff522efe6d8e12ddc47d54228d4bfb0994081392de33a8eeb82"
 metafile = true
@@ -1096,6 +1101,11 @@ metafile = true
 [[files]]
 file = "mods/mighty-mail.pw.toml"
 hash = "55d157a38d829fb67129086a5498f0539bcbed2fa5e974a28abe4ab1cde2fcb5"
+metafile = true
+
+[[files]]
+file = "mods/minemention.pw.toml"
+hash = "fc276741dc939cdb4cdb677a9643166abcff2ce81c9e2f91f349a4090a2a8446"
 metafile = true
 
 [[files]]
@@ -1371,11 +1381,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "e06b639b9475918643d71f95eb745bb6a5f7033d7f36f057bacb0e93b3d03279"
-metafile = true
-
-[[files]]
-file = "mods/talk-balloons.pw.toml"
-hash = "b2fbd4e58ceb74d5bd9f4cca8a946da2857e2e4b51eaf6bc25e8c0a8a53e23f7"
 metafile = true
 
 [[files]]
