@@ -1525,7 +1525,3 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "557d160e4a3d856c6bbe36c39ee7c6cd42824363690b61d5f23bbac153c8edbc"
 metafile = true
-
-[[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.2.2 (HighEnd).zip"
-hash = "c39983470f5ae8ee0b96c68d91610428528c9360530fea16c0439449528071da"
