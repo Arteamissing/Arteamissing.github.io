@@ -90,7 +90,7 @@ hash = "e323a752dc5ee27b6cbacea7d0104840e01f1b2ad36e1eff706c2acba989fefb"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
-hash = "d0f09505edb66be636a2d7915b3e3f9d35cf164b53663ba7a976020c50d36e3e"
+hash = "c84bf5a0d783c1bd9e97288001ff986c406b77969bf3bfe2eb1dbb6e7e44d8db"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
@@ -98,7 +98,7 @@ hash = "1af84e2019cddb975c2968ccdfc335bdddc5a8924db60e9a967c15fd7dacdd2c"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "28f49a943d69f6a5e364d5ff8b532edfd40d9b0cab7b088443506d90e13e4897"
+hash = "546724e2123c5054b108421e5ca78e38e03c6e98c72f3cbe30a5ddf4f6d4b567"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt.orig"
@@ -1194,6 +1194,11 @@ metafile = true
 [[files]]
 file = "mods/nethers-delight.pw.toml"
 hash = "43ff48404322ec170ef9a931bc2f95cc9b488e2834934e2af6c5e0ebebc5fb9c"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "b849dfdaaa3e4ad635fb16595bfd6ae03b83de0c02f5b06faafb24cc33926f3f"
 metafile = true
 
 [[files]]

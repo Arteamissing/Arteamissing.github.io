@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = drippy_loading_overlay
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1749686589999
+  last_edited_time = 1750266295403
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:494c81ea-bb98-4b45-8bc5-f8354c3f1bc9-1749686565107] = [groups:][instances:]
+  [loading_requirement_container_meta:a0be7f4d-61cc-434d-bef8-6e9c106286a3-1750266268095] = [groups:][instances:]
 }
 
 customization {
@@ -44,6 +44,12 @@ scroll_list_customization {
 }
 
 layout_action_executable_blocks {
+  close_screen_executable_block_identifier = 58d78059-8be8-48a4-8ff1-2851cba07a7a-1750266273320
+  [executable_block:f5db4ed8-eb42-473e-9a88-1747a1213a8d-1750266292114][type:if] = [executables:]
+  [if_executable_block_body:f5db4ed8-eb42-473e-9a88-1747a1213a8d-1750266292114] = 039f910d-08f2-4867-8bba-722f00b415f1-1750266274786
+  [loading_requirement_container_meta:039f910d-08f2-4867-8bba-722f00b415f1-1750266274786] = [groups:][instances:8388c0a9-8a41-4d8f-a72d-fcb69c53af7c-1750266276169;]
+  [loading_requirement:is_menu_title][requirement_mode:if][req_id:8388c0a9-8a41-4d8f-a72d-fcb69c53af7c-1750266276169] = drippy_loading_overlay
+  [executable_block:58d78059-8be8-48a4-8ff1-2851cba07a7a-1750266273320][type:generic] = [executables:f5db4ed8-eb42-473e-9a88-1747a1213a8d-1750266292114;]
 }
 
 vanilla_button {
