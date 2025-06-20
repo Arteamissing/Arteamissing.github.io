@@ -1432,6 +1432,11 @@ hash = "1195cdfa90ac4ef4d5ebed8dbca1df990cf58b0a0fe3b9b965ccefa0cfd5a2e3"
 metafile = true
 
 [[files]]
+file = "mods/too-many-paintings.pw.toml"
+hash = "52f4f348942ea0bc262f873c5fba401ba1aefc1d46754ffb163b8588f5f59087"
+metafile = true
+
+[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "00a0cba74675174812eea16aca533adfe9bac7b30a81a7e33dd81bd9343b45c4"
 metafile = true
