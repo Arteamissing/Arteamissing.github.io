@@ -129,6 +129,10 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "config/figura.json"
+hash = "06093d404638e4cd092521f7318057fc098b8550e7c3129f436ac06259cf22e3"
+
+[[files]]
 file = "config/flywheel-client.toml"
 hash = "8c5102d32b94fc9191800fd1597def2078ccc715eac7a6980afacd5d47c21097"
 
