@@ -133,6 +133,10 @@ file = "config/flywheel-client.toml"
 hash = "8c5102d32b94fc9191800fd1597def2078ccc715eac7a6980afacd5d47c21097"
 
 [[files]]
+file = "config/ok_zoomer/config.toml"
+hash = "fe31c76ed55b5d358a8920a3f70a9cc3242991bcf2414d696f4fc42ea336e268"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "f2ddd3f0123871c223162ea6e7f4b6e4c8fd744977274bbeb815a0074fbc0254"
 
