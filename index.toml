@@ -1222,8 +1222,8 @@ hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
 metafile = true
 
 [[files]]
-file = "mods/ok-zoomer-forge.pw.toml"
-hash = "7fe39c6ca31974b4e57e4b08a174beb959933767623c70893064a282ae29a859"
+file = "mods/ok-zoomer.pw.toml"
+hash = "cf879a523ab02ac7b3fa329211dfaeeaabbf3b3c495d54486767b93f2ef522fa"
 metafile = true
 
 [[files]]
