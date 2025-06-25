@@ -547,6 +547,11 @@ hash = "f26f000e0d32621cf3419249052967845d6f8cb25771d2a4b2d2f5447517dc06"
 metafile = true
 
 [[files]]
+file = "mods/camera-mod.pw.toml"
+hash = "605d1f1ae3de3633229406d58ebff0fc51b159a9d6107cdf30a48d80ad9746b2"
+metafile = true
+
+[[files]]
 file = "mods/catalogue.pw.toml"
 hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
 metafile = true
