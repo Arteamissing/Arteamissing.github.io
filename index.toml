@@ -137,6 +137,10 @@ file = "config/flywheel-client.toml"
 hash = "8c5102d32b94fc9191800fd1597def2078ccc715eac7a6980afacd5d47c21097"
 
 [[files]]
+file = "config/improvedsignediting.json5"
+hash = "734a1f076312ffa5a6222f7fd0abb1f9ec40033730653ca7c1c4ff479cc2d82a"
+
+[[files]]
 file = "config/ok_zoomer/config.toml"
 hash = "fe31c76ed55b5d358a8920a3f70a9cc3242991bcf2414d696f4fc42ea336e268"
 
@@ -597,6 +601,11 @@ hash = "27c3f5f7c3ec18f41738529c32ac522350e0e713d1ecc6293de2905e25731bfe"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "ff2c734786c306f7e415c78c90fa35bc603ff525a2d3e9babac59abfd7fe245a"
+metafile = true
+
+[[files]]
 file = "mods/connected-glass.pw.toml"
 hash = "f7d6e93ebda94f4e833741ca04527ee8758852ba44ba4a36de071936a2533bff"
 metafile = true
@@ -928,6 +937,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "9bd757c1ac41f77280b388da33a76fec9712c8f15cf914a13e5e664773191d1a"
+metafile = true
+
+[[files]]
+file = "mods/improved-sign-editing.pw.toml"
+hash = "15f56f2ae5c642b9ef83b458d438d70e3fac37969bf499895eb6c8fcbbbe5acb"
 metafile = true
 
 [[files]]
