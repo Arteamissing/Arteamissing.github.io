@@ -571,6 +571,10 @@ hash = "1cc9be4cc2fea7ce8882c2d286c607560b32ebe5c7e45e7c734e62c1d611f186"
 metafile = true
 
 [[files]]
+file = "mods/charta-1.2.0-forge-1.20.1-all.jar"
+hash = "433168136faacf52d6a0bdf727535b44180cb20dba6839c72e9453f586abb7d2"
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "71a33fe41bead909b3e95643351ef8015def70d3cb083916469f492f66434b45"
 metafile = true
