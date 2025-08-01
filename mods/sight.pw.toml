@@ -1,0 +1,13 @@
+name = "Sight"
+filename = "sight-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3bbb5cc7a5406886c8da6cd150c144cf0acd386f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5076053
+project-id = 966156

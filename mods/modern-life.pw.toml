@@ -1,0 +1,13 @@
+name = "Modern Life"
+filename = "modernlife-1.20.1-1.75.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f321fd122b1d4d8f734c66fd9ac7ad8564f4cc3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6372299
+project-id = 483050
