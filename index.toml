@@ -511,6 +511,11 @@ hash = "af81664fa766bb0cb2f4a383f2464e38300c28ebefcb0b87a53c9bf22873eaca"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "1108afd75d12165b4dcdcb0482c4fa142860d9d6c0e169ba40b8e38144bdf2e3"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "b9fd2cf7b92bc6d8654a5885cd8d9842d404177486f5de80866e194e56c293a0"
 metafile = true
@@ -617,6 +622,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "ff2c734786c306f7e415c78c90fa35bc603ff525a2d3e9babac59abfd7fe245a"
+metafile = true
+
+[[files]]
+file = "mods/common-network.pw.toml"
+hash = "da5709533d85150e7149c7339729d90e73750a3b6db07254669acf81727d5bf3"
 metafile = true
 
 [[files]]
@@ -911,6 +921,11 @@ metafile = true
 [[files]]
 file = "mods/forbidden-arcanus.pw.toml"
 hash = "edeefca9053ee0da1511185568d0241798273fb7d03ed09f7b5fd3dbbbc582bb"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "3906d79212d26da8569ad46ae6bff34f8af0b3bc0a1ec6b658c8bf7a07b939d8"
 metafile = true
 
 [[files]]
@@ -1513,8 +1528,18 @@ hash = "9982ecd54ac42374a1949e01ac7eda3deeed4721d86fcbb0199baf6cc6796500"
 metafile = true
 
 [[files]]
+file = "mods/sinytra-connector.pw.toml"
+hash = "0eab5a7036d1f06d6a7d4679685eaec5723a5c21469f519de1cd1e0ff416ade3"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "ebc991519db80f7009e67023483354bb562ee939eeac754cf4cb290e29d01761"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "8d3e9ef52ac3b65fb976629b55652ca30f9ad8b7ff37925c3111ae78386e1a97"
 metafile = true
 
 [[files]]
