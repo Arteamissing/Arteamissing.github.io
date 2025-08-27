@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/braziliandelight.pw.toml"
-hash = "0d3f223c504786836b020836c5c412fd753f9ac285302d70b0736b763588de49"
+hash = "8a999533aa4000f019cc88cd155f5e5a35f3da5a5d1166b2843c828875526dcf"
 metafile = true
 
 [[files]]
@@ -786,7 +786,7 @@ metafile = true
 
 [[files]]
 file = "mods/deltaboxlib.pw.toml"
-hash = "72ecc46f53112f61acbe29ebab3457d71e6666423d536434e7386470092acd3b"
+hash = "ad59bde8d2371eae2a5f98741da8d1018496426147d63a7f5db028d3ccb45212"
 metafile = true
 
 [[files]]
