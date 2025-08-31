@@ -1,0 +1,13 @@
+name = "Mushroom Quest"
+filename = "MushroomQuest-1.20.1-v4.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e26f08eea4cc4fa4dde729ad4cf307b6f54c647a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5795921
+project-id = 351473

@@ -1303,6 +1303,11 @@ hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true
 
 [[files]]
+file = "mods/mushroom-quest.pw.toml"
+hash = "24db4c0945f3ca6c88f80e41bceb5a69724220d9dc7dce81db0e2a47e03f6d07"
+metafile = true
+
+[[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "318a137293d0919ddeb5e25c3facd5bc83de60366ac6cd5707d28ee650330f62"
 metafile = true
