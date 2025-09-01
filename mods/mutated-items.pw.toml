@@ -1,0 +1,13 @@
+name = "Mutated Items"
+filename = "Mutated-Items-3.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ouZuwzKC/versions/gBzRHxP2/Mutated-Items-3.0.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "700f4b18253abac03ff79bd8d78c2559ca0b36e93c5e9709e88fd78ad55a20e7ceea1bbd317f0e58741d768418e255d6faf96e820db4eba0f2c03f79a6a8dc77"
+
+[update]
+[update.modrinth]
+mod-id = "ouZuwzKC"
+version = "gBzRHxP2"

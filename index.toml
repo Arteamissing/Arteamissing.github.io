@@ -511,8 +511,18 @@ hash = "af81664fa766bb0cb2f4a383f2464e38300c28ebefcb0b87a53c9bf22873eaca"
 metafile = true
 
 [[files]]
+file = "mods/automobility.pw.toml"
+hash = "e0b0d4ffb66d813a4e6da0910d8e050bbfd8e16731dacb78fc5478029932c473"
+metafile = true
+
+[[files]]
 file = "mods/azurelib.pw.toml"
 hash = "1108afd75d12165b4dcdcb0482c4fa142860d9d6c0e169ba40b8e38144bdf2e3"
+metafile = true
+
+[[files]]
+file = "mods/bad-mobs.pw.toml"
+hash = "ad277ad1cc85c6dce61a2ab784dfcb54b5c522a824f06cb94339bf32bdb5d52a"
 metafile = true
 
 [[files]]
@@ -974,6 +984,10 @@ hash = "40d6aca4f6e14b23e29aa64680ff45e9fefdde908217c35a90d22dc4f3b9a7e4"
 metafile = true
 
 [[files]]
+file = "mods/househeiritems-1.0.0.jar"
+hash = "2ec0361eeb44792c09f4dcd9cbbdebfa9d9976db91a3648b968390817f80a417"
+
+[[files]]
 file = "mods/i-wanna-skate.pw.toml"
 hash = "d2c5bef579319e19738723011ed628dc412fbac086b0be452c434ae82d355821"
 metafile = true
@@ -1305,6 +1319,11 @@ metafile = true
 [[files]]
 file = "mods/mushroom-quest.pw.toml"
 hash = "24db4c0945f3ca6c88f80e41bceb5a69724220d9dc7dce81db0e2a47e03f6d07"
+metafile = true
+
+[[files]]
+file = "mods/mutated-items.pw.toml"
+hash = "c9be9b03494d8445bdd6b938c67ede3eb0bb2556eb272bb3ec420ed43c05e993"
 metafile = true
 
 [[files]]
