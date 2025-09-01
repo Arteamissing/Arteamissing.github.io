@@ -1,0 +1,13 @@
+name = "Plenty of Golems"
+filename = "plenty_of_golems-1.4.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3a6beb0ad16f4aa7d7fe5544a3aaf5bb2bea0395"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6083768
+project-id = 870470

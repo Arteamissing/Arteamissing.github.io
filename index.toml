@@ -1432,6 +1432,11 @@ hash = "93e79f423eafdfeb26a0ce9907f4a7dc63b8fdbb2a8702393b24ceec50954d6d"
 metafile = true
 
 [[files]]
+file = "mods/plenty-of-golems.pw.toml"
+hash = "606fef5b2c92a14c712e13d524b2ba8ebcfa48007744377d948301eb824fdf42"
+metafile = true
+
+[[files]]
 file = "mods/plushie-buddies.pw.toml"
 hash = "3adb7a2e9c0d20c5930e2f958558c7024d7f0fb1003700501bed51c68ae2d5ec"
 metafile = true
