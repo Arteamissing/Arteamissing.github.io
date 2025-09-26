@@ -591,6 +591,11 @@ hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
 metafile = true
 
 [[files]]
+file = "mods/caupona.pw.toml"
+hash = "8517132706f5a99edaf7705b6a4c2c934972dabcacca279f6d8abdef874d9949"
+metafile = true
+
+[[files]]
 file = "mods/cc-reforked.pw.toml"
 hash = "1cc9be4cc2fea7ce8882c2d286c607560b32ebe5c7e45e7c734e62c1d611f186"
 metafile = true
@@ -825,6 +830,11 @@ hash = "4eac3d67379cfbf38a5c7a40a9a89328117fdc5ae0bfeb3acaef5ded00c2d8f0"
 metafile = true
 
 [[files]]
+file = "mods/dusty-decorations.pw.toml"
+hash = "279cece87d0118a9de64f80bdcad6e4c579c164743b623352d4db42d9b25339d"
+metafile = true
+
+[[files]]
 file = "mods/easy-npc.pw.toml"
 hash = "28aa7084cd18debd4408db12c2600f0018f43992ae1b7e3c1fb60695aa2b8dbf"
 metafile = true
@@ -955,7 +965,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "598758f152e98916bc6eea2ad73a82b47a6e6934f4b0ba1e1f6593773afd1a50"
+hash = "1030e18f2e875dfdf39de82b823e1dfe6009f21f1aaad338137d3a90504e2f7e"
 metafile = true
 
 [[files]]
@@ -1147,6 +1157,10 @@ hash = "a3fc2800be76f3406961d01ab4ab6805b4ca5e269f53d3cb2d58ea39d6afa9f2"
 metafile = true
 
 [[files]]
+file = "mods/lumifan-0.1.7-1.20.1.jar"
+hash = "38d087e874f4bb78d9b614afc6ca900f76ade54a855ae2ef6d65103b5cabb801"
+
+[[files]]
 file = "mods/macaws-biomes-o-plenty.pw.toml"
 hash = "8fc0345ebeffd70bd021fa92318858a55c77c82c2683e02af15a1329d8b7165e"
 metafile = true
@@ -1314,6 +1328,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
+metafile = true
+
+[[files]]
+file = "mods/mowzies-mobs.pw.toml"
+hash = "fc09447db9efb9f9ec998ce84cf11edfd089a2515a300e45fd06e607aabc051a"
 metafile = true
 
 [[files]]
