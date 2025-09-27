@@ -765,6 +765,11 @@ hash = "67321b642d34507ff66f3aa2b19d13da45ac74c967be7b47aee2344cafd91ea9"
 metafile = true
 
 [[files]]
+file = "mods/crock-pot.pw.toml"
+hash = "5b4a4ca9c5cf84be0e5beffc385ff8182fb839670013a1f4afa83a92c951c31e"
+metafile = true
+
+[[files]]
 file = "mods/croptopia.pw.toml"
 hash = "d8fde87d322c7d8e841658090d41c33120c72b4e6724af94a9fd3cc41603234c"
 metafile = true
