@@ -999,8 +999,8 @@ hash = "40d6aca4f6e14b23e29aa64680ff45e9fefdde908217c35a90d22dc4f3b9a7e4"
 metafile = true
 
 [[files]]
-file = "mods/househeiritems-1.0.0.jar"
-hash = "2ec0361eeb44792c09f4dcd9cbbdebfa9d9976db91a3648b968390817f80a417"
+file = "mods/househeiritems-1.0.1.jar"
+hash = "6a8b2cc6940887e525ce43838a7ce9a5fba8e2afbc647b9d09a39c955efc8210"
 
 [[files]]
 file = "mods/i-wanna-skate.pw.toml"
